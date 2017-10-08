@@ -1,0 +1,1 @@
+_initMemberInfoCallback({"availablePoints":-99,"activeStatus":2,"newMessage":0,"lastMessage":"","lastMessageUrl":"","lastMessageId":0,"lastMessageType":0,"taskId":0,"messagePopup":"true","newMsgList":{"4":0,"3":0,"2":0,"1":0}})
